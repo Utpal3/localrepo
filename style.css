@@ -1,0 +1,44 @@
+/* Apply a blur effect */
+.blur {
+    filter: blur(5px);
+}
+
+/* Apply a grayscale effect */
+.grayscale {
+    filter: grayscale(100%);
+}
+
+/* Apply a sepia effect */
+.sepia {
+    filter: sepia(100%);
+}
+
+/* Apply a brightness effect */
+.brightness {
+    filter: brightness(150%);
+}
+
+/* Apply a contrast effect */
+.contrast {
+    filter: contrast(200%);
+}
+
+/* Apply a hue-rotate effect */
+.hue-rotate {
+    filter: hue-rotate(90deg);
+}
+
+/* Apply an invert effect */
+.invert {
+    filter: invert(100%);
+}
+
+/* Apply a saturate effect */
+.saturate {
+    filter: saturate(200%);
+}
+
+/* Apply a drop shadow effect */
+.drop-shadow {
+    filter: drop-shadow(5px 5px 10px #000);
+}
