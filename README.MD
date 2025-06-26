@@ -1,4 +1,4 @@
-its just demo repository
+its just demo repository.
 
 # NVIDIA
 
